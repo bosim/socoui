@@ -17,6 +17,7 @@ Technologies
 * Based on Python and the soco module
 * Using Flask for backend webserver
 * Using Angular.js for frontend
+* Using Twitter bootstrap for basic design
 
 How to install?
 ---------------
