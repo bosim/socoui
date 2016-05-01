@@ -22,7 +22,7 @@ How to install?
     $ pip install -r requirements.txt
     $ python server.py
 
-You can now access the UI using [http://localhost:5000]()
+You can now access the UI using [http://localhost:5000](http://localhost:5000)
 
 Troubleshooting
 ---------------
