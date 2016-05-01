@@ -8,6 +8,12 @@ function durationToInt(text) {
 
 var app = angular.module('socoui', []);
 
+app.config(['$interpolateProvider', function($interpolateProvider) {
+  $interpolateProvider.startSymbol('{[');
+  $interpolateProvider.endSymbol(']}');
+}]);
+
+
 app.controller('controller', function($scope, $http, $interval) {
     $scope.getDevices = function() {
         $http.get('/devices').then(function(data) {
