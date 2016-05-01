@@ -3,7 +3,11 @@ socoui
 
 A very simple UI using the soco python module for accessing Sonos devices. It provides a webinterface
 for basic operations like stopping/starting playing, displaying the queue and selecting elements. 
-Browsing music library is on the todo list.
+Browsing music library is on the todo list. This project is still very much work-in-progress, so
+don't expect everything to work 100%.
+
+How does it look?
+-----------------
 
 ![screenshot.png](screenshot.png)
 
