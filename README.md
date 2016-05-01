@@ -21,7 +21,9 @@ How to install?
     $ source bin/activate
     $ pip install -r requirements.txt
     $ python server.py
-    
+
+You can now access the UI using [http://localhost:5000]()
+
 Troubleshooting
 ---------------
 
